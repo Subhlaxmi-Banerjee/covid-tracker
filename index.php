@@ -91,7 +91,7 @@ include "logic.php"
     </div>
     <footer class = "footer mt-auto py-2 bg-light">
       <div class="container text-center">
-        <span class = "text-muted">Copyright &copy;2020, Subhlaxmi Banerjee</span>
+        <span class = "text-muted">Copyright &copy;2021, Subhlaxmi Banerjee</span>
       </div>
     </footer>
   </body>
